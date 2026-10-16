@@ -1,0 +1,6 @@
+{
+  "name": "FinAI",
+  "description": "FinGuard AI - Smarter Finance. Safer Transactions. Comprehensive financial management, transaction monitoring, ratio analysis, and security alerts console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
